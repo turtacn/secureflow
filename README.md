@@ -1,4 +1,4 @@
-# secureflow
+# SecureFlow
 
 **Secure Multi-Party Data Intelligence and Collaboration Platform**
 
